@@ -1,3 +1,6 @@
-## Java Programming and Software Engineering Fundamentals
+* PROJECT TITLE: week2 assignments
+* PURPOSE OF PROJECT: learn String in Java
+* VERSION or DATE: 2017-07-19
+* HOW TO START THIS PROJECT: In BlueJ IDE
+* AUTHORS: @[shine](http://github.com/rh01)
 
-[course home page](https://www.coursera.org/learn/java-programming) 杜克大学
